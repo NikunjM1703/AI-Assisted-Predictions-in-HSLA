@@ -1,4 +1,4 @@
-# 🚀 Project Name: AI-Assisted Prediction of Stacking Fault Energy (SFE) in HSLA Steels
+#AI-Assisted Prediction of Stacking Fault Energy (SFE) in HSLA Steels
 
 ## 📘 Overview
 -This project explores how **machine learning** can accelerate material design by predicting the **Stacking Fault Energy (SFE)** of High-Strength Low-Alloy (HSLA) steels directly from their chemical composition and simulation data.  
